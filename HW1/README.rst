@@ -15,10 +15,13 @@
 
 **Train**
 
-.. highlight:: python
- python train.py
+.. code-block:: python
+
+   python train.py
 
 **Test**
 
-.. highlight:: python
- python test.py
+.. code-block:: python
+
+   python test.py
+ 
