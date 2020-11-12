@@ -1,4 +1,6 @@
 
+
+
 **Requirement**
 
   **Languag**
@@ -13,8 +15,10 @@
 
 **Train**
 
-  ``python train.py``
+.. highlight:: python
+ python train.py
 
 **Test**
 
-  ``python test.py``
+.. highlight:: python
+ python test.py
