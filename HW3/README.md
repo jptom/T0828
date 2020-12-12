@@ -18,3 +18,6 @@ Put the dataset like this.
         ├── test.json
         ├── train.json
 ```
+Please set your dataset path in the cell in which you set the dataset config.
+Please set your output json path in the last cell.
+You can get result in about 2 hours if you use gpu mode.
